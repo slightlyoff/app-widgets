@@ -1,0 +1,17 @@
+{
+  "name": "google-apis",
+  "private": true,
+  "dependencies": {
+    "core-shared-lib": "Polymer/core-shared-lib#master"
+  },
+  "homepage": "https://github.com/PolymerLabs/google-apis",
+  "_release": "3e9c12b15e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3e9c12b15e73c74e676cae3fa5b5c355a5d47aa9"
+  },
+  "_source": "git://github.com/PolymerLabs/google-apis.git",
+  "_target": "master",
+  "_originalSource": "PolymerLabs/google-apis"
+}
